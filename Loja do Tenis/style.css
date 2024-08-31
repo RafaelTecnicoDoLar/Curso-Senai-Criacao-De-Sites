@@ -1,0 +1,25 @@
+/* esse css serve para ajeitar o cabeçalho */
+body{
+    background-color: rgb(83, 83, 83);
+    color: whitesmoke;
+}
+header {
+    background-color: rgb(255, 0, 0);
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 32px;
+    border-bottom: 10px solid rgba(0, 0, 0, 0.651);
+
+}
+
+footer {
+    background-color: red;
+    color: #fff;
+}
+
+.bold {
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
